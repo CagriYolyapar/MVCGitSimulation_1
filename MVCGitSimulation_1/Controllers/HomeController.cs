@@ -8,6 +8,7 @@ namespace MVCGitSimulation_1.Controllers
 {
     public class HomeController : Controller
     {
+        //Bir satır bosluk bıraktık
         public ActionResult Index()
         {
             return View();
