@@ -13,5 +13,10 @@ namespace MVCGitSimulation_1.Controllers
         {
             return View();
         }
+
+        public ActionResult GetEmployee()
+        {
+            return View();
+        }
     }
 }
